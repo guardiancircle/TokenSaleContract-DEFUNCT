@@ -1,0 +1,13 @@
+venv
+*.pyc
+*.avm
+.idea
+__pycache__
+*.sublime*
+*.wallet
+*.db3
+*.debug.json
+prompt.py
+.DS_Store
+byte_convert.py
+gdm_test.py
